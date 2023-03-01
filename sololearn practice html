@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Taylor's CV</title>.
+	</head>
+	<body>
+		<h1>Taylor M. O. Luamba</h1> 
+		<p> <strong>Technical Instructor, Engineering</strong></p>
+		<hr> 
+		Lifelong learner, passionate about technology solutions and content creation. 
+		<img src="https://photos.google.com/photo/AF1QipMqjn14ScyPTOUEPkJFr2DxHsroBMK35oV-EDJi" alt="arsenal picture">
+	<ul>
+		<li><b>Technical Instructor</b></li>
+		<li>Adult Education Instructor</li>
+		<table border="4" align="center">
+			<tr>
+				<th> Technologies</th>
+				<td> HTML</td>
+				<td>Github</td>
+			</tr>
+			<tr>
+				<th>Softskills</th>
+				<td> Communication </td>
+				<td>Fast learner</td>
+			</tr>	
+		</table>
+	</body>
+
+</html>
